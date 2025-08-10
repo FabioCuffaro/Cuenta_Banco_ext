@@ -23,7 +23,7 @@ En este caso quiero saber cuántos billetes de cada tipo debería entregar el ca
 
 ---
 
-<br><br>
+<br>
 
 
 ## 👨‍🎓 Autor
