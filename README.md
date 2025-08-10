@@ -14,7 +14,8 @@ En este caso quiero saber cuántos billetes de cada tipo debería entregar el ca
 ## ⚙️ Mejoras futuras
 
 - Unir esta extensión a mi proyecto principal de Cuenta de Banco
-
+- Hacer que el cajero disponga de ciertos billetes de cada tipo, si no tiene muchos, te dará más de otros
+- Limitar la retirada de dinero. Aunque como quería probar si funcionaba bien, lo he dejado para probar con numeros altos
 <br>
 
 ## 📸 Capturas de pantalla
